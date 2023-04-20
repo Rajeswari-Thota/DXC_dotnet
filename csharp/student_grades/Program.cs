@@ -22,7 +22,7 @@ namespace student_grades
             int studentscore=marks1 + marks2 + marks3;
             
             Console.WriteLine("your total score is " + studentscore);
-            float percentage = (studentscore / 3.0f);
+            float percentage = (studentscore / 3);
             Console.WriteLine("your total percentage is "+  percentage);
             if(percentage >= 90) 
             {
