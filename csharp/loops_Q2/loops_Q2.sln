@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops_Q2", "loops_Q2.csproj", "{3204DCA1-D513-42AD-A984-15294B9BB11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3204DCA1-D513-42AD-A984-15294B9BB11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3204DCA1-D513-42AD-A984-15294B9BB11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3204DCA1-D513-42AD-A984-15294B9BB11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3204DCA1-D513-42AD-A984-15294B9BB11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {837F477E-3162-4FEE-A73A-2E55A48FD84C}
+	EndGlobalSection
+EndGlobal
