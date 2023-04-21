@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Enter a no:");
+﻿Console.WriteLine("Enter a 5 digit number:");
 int n=Convert.ToInt32(Console.ReadLine());
 int sum = 0,r;
 while (n > 0)

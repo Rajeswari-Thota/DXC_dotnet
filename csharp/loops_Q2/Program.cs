@@ -1,9 +1,11 @@
 ﻿int c = 0;
-for(int i = 1; i <= 10; i++)
+Console.WriteLine("Sr.no \t Temperature in celsius \t Temperature in farenheit ");
+for (int i = 1; i <= 10; i++)
 {
     
     int f = (c * 9) / 5 + 32;
-    Console.WriteLine($"{i}           Temperature in celsius is {c}       Temperature in farenheit is {f}");
+    
+    Console.WriteLine($"{i} \t {c} \t\t\t\t {f}");
     c += 10;
 
 
